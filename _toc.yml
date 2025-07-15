@@ -65,6 +65,14 @@ chapters:
       
 
 
+  - file: Notebooks/Optimisation_Algorithms/README
+    sections:
+      - file: Notebooks/Optimisation_Algorithms/Particle_Swarm_Optimisation/README
+        sections:
+          - file: Notebooks/Optimisation_Algorithms/Particle_Swarm_Optimisation/Particle_Swarm_Optimisation
+
+
+
   - file: Notebooks/Statistics/README
     sections:
       - file: Notebooks/Statistics/Covariance_Correlation
@@ -74,8 +82,3 @@ chapters:
       - file: Notebooks/Statistics/Probability_Distributions
       - file: Notebooks/Statistics/Statistical_Regression
 
-   - file: Notebooks/Optimisation_Algorithms/README
-      sections:
-        - file: Notebooks/Optimisation_Algorithms/Particle_Swarm_Optimisation/README
-          sections:
-            - file: Notebooks/Optimisation_Algorithms/Particle_Swarm_Optimisation/Particle_Swarm_Optimisation
